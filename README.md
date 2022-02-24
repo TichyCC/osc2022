@@ -2,6 +2,12 @@
 
 This repository is homework submission for students
 
+## Author
+
+| GitHub Account | Student ID | Name |
+| -------------- | -----------| ---- |
+| TichyCC        | A102125    | 陳隆琦|
+
 ## How to submit homework
 
 1. Fork [this repository](https://github.com/oscapstone/osc2022) on GitHub 
